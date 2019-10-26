@@ -85,7 +85,7 @@ This will genearte a link in the command line with a message like
 TensorBoard 1.13.0 at http://DESKTOP-I48HILA:6006 (Press CTRL+C to quit)
 ```
  
-Now copy the link and run it in a browser and the window will open
+Now copy the link and run it in a browser and this window will open
 
 ![tensorboard.PNG](https://www.dropbox.com/s/qh6m1zo8iimp1r4/tensorboard.PNG?dl=0&raw=1)
 

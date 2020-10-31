@@ -11,7 +11,7 @@ Guide to [install](https://www.tensorflow.org/install/) Tensorflow
 
 # Working
 
-TensorBoard was created as a way to help us understand the flow of tensors in your model so that we can debug and optimize it. It is generally used for two main purposes:
+TensorBoard is created as a way to help us understand the flow of tensors in your model so that we can debug and optimize it. It is generally used for two main purposes:
 
 1. Visualizing the Graph
 

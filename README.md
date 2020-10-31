@@ -5,7 +5,7 @@ TensorFlow is an open-source machine learning library used for research and prod
 ### Installation
 
 Tensorboard comes with Tensorflow by default.
-So if you will install tensorflow, tensorboard will automatically be installed.
+So, if you will install tensorflow, tensorboard will automatically be installed.
 
 Guide to [install](https://www.tensorflow.org/install/) Tensorflow 
 

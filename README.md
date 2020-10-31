@@ -1,6 +1,6 @@
 # Tensorboard
 
-TensorFlow is an open-source machine learning library used for research and production. TensorFlow offers APIs for beginners and experts to develop applications for desktop, mobile, web, and cloud. See the sections below to get started. 
+TensorFlow is an open-source machine learning library used for research and production. TensorFlow offers various APIs for beginners and experts to develop applications for desktop, mobile, web, and cloud. See the sections below to get started. 
 
 ### Installation
 
